@@ -1,0 +1,8 @@
+datr	7ThHZK3mtdPmyz9jD-dNueyR	.facebook.com	/	1745461230	True	True
+m_pixel_ratio	1	.facebook.com	/	0	True	False
+fr	0HHfUf8IZjVJtHLJF.AWVEVoBlZFfF2WboRKsByHErhjc.BkRzjt.nx.AAA.0.0.BkRzjv.AWV3ufSxovU	.facebook.com	/	1690165227	True	True
+sb	7ThHZMJ3-rhWoUxK0aDEUqi7	.facebook.com	/	1745461233	True	True
+c_user	100002106084934	.facebook.com	/	1713925230	True	False
+xs	26%3AH1tGbpqwXv8aJw%3A2%3A1682389231%3A-1%3A-1	.facebook.com	/	1713925230	True	True
+m_page_voice	100002106084934	.facebook.com	/	1690165234	True	True
+wd	1280x887	.facebook.com	/	1682994034	True	False
